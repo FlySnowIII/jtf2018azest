@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "53282776729",
+    "firebase_url": "https://azesttest1.firebaseio.com",
+    "project_id": "azesttest1",
+    "storage_bucket": "azesttest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53282776729:android:8f4bb19905384371",
+        "android_client_info": {
+          "package_name": "com.azest.holographytest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53282776729-qq1q7noi4rrc2t4gkr3m471qs0jgk106.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwrKKAs_1K4Bfjp-fi45ZlHeCOuzRlRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
