@@ -5,7 +5,7 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
-02_Program/02_Unity/New Unity Project/*
+New Unity Project/
 
 # Visual Studio cache directory
 .vs/
